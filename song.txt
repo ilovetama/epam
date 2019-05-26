@@ -1,4 +1,7 @@
-первая строчка	
-вторая строчка
-третья строчка
-четвертая строчка
+﻿first line
+second line
+line number 3
+line number 4
+
+line 5
+line 6
