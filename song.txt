@@ -2,6 +2,7 @@
 second line
 line number 3
 line number 4
+<<<<<<< HEAD
 
 first line 2
 second line 3
@@ -10,3 +11,7 @@ line number 41
 
 -----------
 -----------
+=======
+line 5
+line 6
+>>>>>>> bdaaf05de642ffc05a934b0b72b18cb86a767e20
